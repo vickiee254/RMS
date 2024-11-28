@@ -25,8 +25,6 @@ FIRST Download
 **LOGIN DETAILS** 
 
 Admin
-user: admin
-pass: admin123
+user: victor
+pass: 1196
 
-****** https://www.campcodes.com ******
-Subcribe to our Youtube Channel **** SerBermz ****
